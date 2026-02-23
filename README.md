@@ -1,3 +1,3 @@
-# Aulas da Oficinas de API
+# Aulas das Oficinas de API
 
 1. [OficinaAPI-Introdução](https://github.com/Gaspar-zinh/OficinaAPI/tree/master/OficinaAPI-Introdução)  
