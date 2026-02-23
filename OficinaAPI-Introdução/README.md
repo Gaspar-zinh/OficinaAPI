@@ -8,6 +8,8 @@ Este projeto foi desenvolvido para uma oficina introdutória sobre APIs. Ele cri
 * **Consumo de API:** Como buscar dados de um servidor externo.
 * **JSON:** O formato padrão de troca de dados na web.
 
+* **Materiais utilizado na oficina:** [Slides](https://www.canva.com/design/DAHBy1tSEEo/C6rZ7Tov-D0D1WAI7nZqgg/edit?utm_content=DAHBy1tSEEo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+
 ## 🚀 Como usar
 
 ### 1. Pré-requisitos
